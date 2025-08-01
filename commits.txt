@@ -74,3 +74,6 @@ Day 69 : 28 July
 Day 70 : 29 July
 Day 71 : 30 July
 Day 72 : 31 July
+.
+Day 73 : 1 August
+Day 74 : 2 August
